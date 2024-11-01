@@ -1,1 +1,1 @@
-# program anjai
+# program untuk kalkulator pembelanjaan
